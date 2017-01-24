@@ -1,0 +1,1 @@
+C:\Windows\System32\cmd.exe /A /Q /K d:\msys64\msys2_shell.bat e:/Fuying/Studio/sh/updater.sh
